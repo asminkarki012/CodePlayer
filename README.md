@@ -1,2 +1,2 @@
 # CodePlayer
-Simple code player program for learning HTML,CSS and JavaScript. 
+Simple code player program for learning HTML,CSS and JavaScript using jQuery. 
